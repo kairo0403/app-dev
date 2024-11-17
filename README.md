@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+# My Favorite Movie
+**Title**: Insidious  
+**Director**: James Wan
+**Year**: 2010
